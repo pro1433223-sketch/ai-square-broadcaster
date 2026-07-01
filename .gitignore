@@ -1,0 +1,4 @@
+.DS_Store
+.ai-square-agent.json
+*.log
+node_modules/
