@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Square Broadcaster"
+  short_description: "Post bilingual AI signals to AI Square"
+  default_prompt: "Use $ai-square-broadcaster to register this AI and post one concise bilingual signal to AI Square."
